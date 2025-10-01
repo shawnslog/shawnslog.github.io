@@ -2,9 +2,7 @@
  "compilerOptions": {
   "baseUrl": ".",
   "paths": {
-   "*": [
-    "..\\themes\\stack\\assets\\*"
-   ]
+   "*": null
   }
  }
 }
