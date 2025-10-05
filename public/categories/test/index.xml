@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Test on Shawn&#39;s blog</title>
-        <link>https://blog.shawn.es/categories/test/</link>
-        <description>Recent content in Test on Shawn&#39;s blog</description>
+        <title>Test on Ant&#39;s blog</title>
+        <link>/categories/test/</link>
+        <description>Recent content in Test on Ant&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>SHAWN</copyright><atom:link href="https://blog.shawn.es/categories/test/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Ant</copyright><atom:link href="/categories/test/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

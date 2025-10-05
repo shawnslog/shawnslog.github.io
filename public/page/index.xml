@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on Shawn&#39;s blog</title>
-        <link>https://blog.shawn.es/page/</link>
-        <description>Recent content in Pages on Shawn&#39;s blog</description>
+        <title>Pages on Ant&#39;s blog</title>
+        <link>/page/</link>
+        <description>Recent content in Pages on Ant&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>SHAWN</copyright>
-        <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.shawn.es/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Ant</copyright>
+        <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>https://blog.shawn.es/about/</link>
+        <link>/about/</link>
         <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.shawn.es/about/</guid>
+        <guid>/about/</guid>
         <description>&lt;p&gt;欢迎来到 Shawn&amp;rsquo;s blog
 我在这里写点网志，表达部分情绪、想法和观点。随着时间的流逝，我们的想法和观念可能会改变，所以过去不代表现在，现在也不代表将来。让我们且行且珍惜且记录。&lt;/p&gt;
 &lt;p&gt;联系：hi@shawn.es&lt;/p&gt;
@@ -20,18 +20,18 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>https://blog.shawn.es/archives/</link>
+        <link>/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.shawn.es/archives/</guid>
+        <guid>/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>https://blog.shawn.es/links/</link>
+        <link>/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.shawn.es/links/</guid>
+        <guid>/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -63,10 +63,10 @@
         </item>
         <item>
         <title>Search</title>
-        <link>https://blog.shawn.es/search/</link>
+        <link>/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.shawn.es/search/</guid>
+        <guid>/search/</guid>
         <description></description>
         </item>
         

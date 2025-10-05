@@ -1,8 +1,8 @@
-baseurl: https://blog.shawn.es/
+baseurl: /
 languageCode: en-us
 theme: hugo-theme-stack
-title: Shawn's blog
-copyright: SHAWN
+title: Ant's blog
+copyright: Ant
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -15,7 +15,7 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: Shawn's blog
+        title: Ant's blog
         weight: 1
         params:
             sidebar:

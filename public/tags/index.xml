@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on Shawn&#39;s blog</title>
-        <link>https://blog.shawn.es/tags/</link>
-        <description>Recent content in Tags on Shawn&#39;s blog</description>
+        <title>Tags on Ant&#39;s blog</title>
+        <link>/tags/</link>
+        <description>Recent content in Tags on Ant&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>SHAWN</copyright>
-        <lastBuildDate>Fri, 12 Jul 2024 11:29:18 +0800</lastBuildDate><atom:link href="https://blog.shawn.es/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Ant</copyright>
+        <lastBuildDate>Fri, 12 Jul 2024 11:29:18 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title> </title>
-        <link>https://blog.shawn.es/tags/-/</link>
+        <link>/tags/-/</link>
         <pubDate>Fri, 12 Jul 2024 11:29:18 +0800</pubDate>
         
-        <guid>https://blog.shawn.es/tags/-/</guid>
+        <guid>/tags/-/</guid>
         <description></description>
         </item>
         
